@@ -1,6 +1,8 @@
 # Opencode-TUI-Docker
 Open a containerized version of Opencode TUI in your working directory for development 
 
+[See this image on Docker Hub here!](https://hub.docker.com/repository/docker/barndoon/opencode-tui)
+
 This image builds Opencode TUI in a container for development. After you install and run Opencode locally (connecting providers, specifying other configs, etc), you can bind mount your configs to the container for a predictable environment that you don't need to set up every time.
 
 # Run
